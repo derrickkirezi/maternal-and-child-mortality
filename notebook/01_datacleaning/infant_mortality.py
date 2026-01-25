@@ -2,40 +2,49 @@ import pandas as pd
 
 #1. CREATING A DATAFRAME
 
-df2 = pd.read_csv('data/infant_mortality.csv', sep=',', skiprows=4)
+df = pd.read_csv('data/infant_mortality.csv', sep=',', skiprows=4)
 
 #2. TAKING A LOOK AT DATAFRAME
 
-df2.head()
+df.head()
 
 #3. CLEANING DATA 
    
-      # A. renaming the columns
+      # renaming the columns
 
-df2= df2.rename(columns={ 'Country Name':'country',
+df= df.rename(columns={ 'Country Name':'country',
                        'Country Code':'country_code',
                        'Indicator Name':'indicator',
                        'Indicator Code':'indicator_code' } )
 
-     # B. Identifying the years columns
+     # Identifying the years columns
 
-year_cols = [c for c in df2.columns if c.isdigit()]
+year_cols = [c for c in df.columns if c.isdigit()]
 
-     # C. changing from wide to long format
+     # keep relevant columns
 
-df2.melt(id_vars=['country','country_code','indicator','indicator_code'], var_name='year', value_name='value')
-df2_long= df1.melt(id_vars=['country','country_code','indicator','indicator_code'], var_name='year', value_name='value')
+df = df[["country", "country_code", "indicator"] + year_cols]
 
-    # D. removing null values
+     # changing from wide to long format
 
-df2_long.dropna()
-df2= df2_long.dropna()
+df.melt(id_vars=['country','country_code','indicator','indicator_code'], var_name='year', value_name='value')
+df_long= df.melt(id_vars=['country','country_code','indicator','indicator_code'], var_name='year', value_name='value')
 
-    # E. checking the data types of columns
+    # remove null values
 
-df2.dtypes
+df_long.dropna()
+df= df_long.dropna()
 
-    # F. changing the 'year' column to integer
+    # checking the data types of columns
 
-df2['year'].astype(int)
-df2['year']= df2['year'].astype(int)
+df.dtypes
+
+    # changing the 'year' column to integer
+
+df['year'].astype(int)
+df['year']= df['year'].astype(int)
+
+    # save cleaned data
+df_long.to_csv(
+    "data/maternal_mortality_clean.csv",
+    index=False )
