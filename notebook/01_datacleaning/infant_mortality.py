@@ -23,7 +23,7 @@ year_cols = [c for c in df.columns if c.isdigit()]
 
      # keep relevant columns
 
-df = df[["country", "country_code", "indicator"] + year_cols]
+df = df[["country", "country_code", "indicator", "indicator_code"] + year_cols]
 
      # changing from wide to long format
 
@@ -45,6 +45,6 @@ df['year'].astype(int)
 df['year']= df['year'].astype(int)
 
     # save cleaned data
-df_long.to_csv(
+df.to_csv(
     "data/infant_mortality_clean.csv",
     index=False )
