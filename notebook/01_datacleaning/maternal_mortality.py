@@ -45,6 +45,6 @@ df['year'].astype(int)
 df['year']= df['year'].astype(int)
 
     # save cleaned data
-df_long.to_csv(
+df.to_csv(
     "data/maternal_mortality_clean.csv",
     index=False )
