@@ -1,0 +1,1197 @@
+country,country_code,indicator,indicator_code,year,value
+Bolivia,BOL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1985,373.0
+Bolivia,BOL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1986,416.0
+Guatemala,GTM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1988,105.0
+United Arab Emirates,ARE,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1990,32.6
+China,CHN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1990,88.9
+Bolivia,BOL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1991,390.0
+Japan,JPN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1991,9.45654082203654
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1991,27.4
+"Egypt, Arab Rep.",EGY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1992,174.0
+India,IND,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1992,437.0
+Mongolia,MNG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1992,203.9
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1992,15.9
+Bhutan,BTN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1993,380.0
+Guatemala,GTM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1993,190.0
+Mongolia,MNG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1993,259.0
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1993,6.0
+Tunisia,TUN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1993,68.9
+Iraq,IRQ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1994,291.0
+Morocco,MAR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1994,228.0
+Mongolia,MNG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1994,219.0
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1994,24.4
+Philippines,PHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1994,172.0
+United Arab Emirates,ARE,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1995,22.4
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1995,44.0
+Antigua and Barbuda,ATG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1995,0.0
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1995,64.0
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1995,115.7
+China,CHN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1995,61.9
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1995,19.9
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1995,47.6
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1995,47.2
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1995,61.0
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1995,78.77
+Mongolia,MNG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1995,186.0
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1995,22.0
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1995,83.9
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1995,14.2
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1995,130.7
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1995,22.9
+United States,USA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1995,7.1
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1996,46.9
+Antigua and Barbuda,ATG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1996,0.0
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1996,0.0
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1996,103.2
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1996,29.0
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1996,36.4
+Dominica,DMA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1996,0.0
+Dominican Republic,DOM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1996,229.3
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1996,54.1
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1996,62.0
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1996,78.39
+Mongolia,MNG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1996,173.7
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1996,21.0
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1996,69.3
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1996,17.0
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1996,123.3
+Thailand,THA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1996,44.1
+Trinidad and Tobago,TTO,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1996,38.9
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1996,18.7
+United States,USA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1996,7.6
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,38.3
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,0.0
+Bermuda,BMU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,117.8
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,109.7
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,5.5
+Chile,CHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,22.3
+China,CHN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,63.6
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,37.2
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,38.6
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,45.3
+Guyana,GUY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,159.9
+Honduras,HND,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,108.0
+Iceland,ISL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,5.4941029961175
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,63.0
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,76.35
+Mongolia,MNG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,143.5
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,13.3
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,61.7
+Peru,PER,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,185.0
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,15.6
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,101.8
+Saudi Arabia,SAU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,23.0
+El Salvador,SLV,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,173.0
+Thailand,THA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,36.5
+Trinidad and Tobago,TTO,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,70.4
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,30.2
+United States,USA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,8.4
+"Venezuela, RB",VEN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1997,59.6
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1998,38.1
+Antigua and Barbuda,ATG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1998,0.0
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1998,17.0
+Belize,BLZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1998,117.84
+Bermuda,BMU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1998,0.0
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1998,110.2
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1998,3.8
+Chile,CHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1998,20.3
+Colombia,COL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1998,100.4
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1998,15.6
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1998,39.1
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1998,42.6
+Guyana,GUY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1998,105.9
+India,IND,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1998,398.0
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1998,53.0
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1998,76.35
+Mongolia,MNG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1998,162.4
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1998,18.5
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1998,65.8
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1998,6.6
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1998,110.9
+Thailand,THA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1998,36.4
+Trinidad and Tobago,TTO,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1998,44.7
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1998,20.1
+United States,USA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1998,7.1
+Aruba,ABW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,0.0
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,41.1
+Antigua and Barbuda,ATG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,0.0
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,19.0
+Belize,BLZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,28.12
+Bermuda,BMU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,0.0
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,92.3
+Bhutan,BTN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,255.64
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,2.4
+Chile,CHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,22.7
+China,CHN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,58.7
+Colombia,COL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,92.2
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,28.0
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,43.8
+Dominica,DMA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,0.0
+Dominican Republic,DOM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,121.6
+Algeria,DZA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,117.41
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,58.5
+Guyana,GUY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,231.0
+India,IND,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,540.0
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,55.8
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,77.31
+Myanmar,MMR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,255.0
+Mongolia,MNG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,182.0
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,13.7
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,60.7
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,18.4
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,114.4
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,11.1
+United States,USA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,9.9
+"Venezuela, RB",VEN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,59.3
+Virgin Islands (U.S.),VIR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,1999,0.0
+Aruba,ABW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,0.0
+Afghanistan,AFG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,1900.0
+United Arab Emirates,ARE,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,0.0
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,34.9
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,38.0
+Belize,BLZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,68.3713934089977
+Bermuda,BMU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,0.0
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,73.3
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,2.7
+Chile,CHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,18.7
+China,CHN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,53.0
+Colombia,COL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,104.9
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,35.8
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,40.4
+Curacao,CUW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,0.0
+Dominica,DMA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,0.0
+Dominican Republic,DOM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,97.8
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,65.5
+"Egypt, Arab Rep.",EGY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,84.0
+Fiji,FJI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,57.6
+Grenada,GRD,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,0.0
+Guatemala,GTM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,153.0
+Guyana,GUY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,133.0
+Haiti,HTI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,523.0
+India,IND,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,327.0
+Jamaica,JAM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,91.3540194031769
+St. Kitts and Nevis,KNA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,0.0
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,55.6
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,71.31
+Mongolia,MNG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,166.2
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,16.1
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,61.7
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,30.3
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,164.0
+Turks and Caicos Islands,TCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,0.0
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,17.1
+United States,USA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,9.8
+"Venezuela, RB",VEN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,60.1
+British Virgin Islands,VGB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2000,0.0
+Aruba,ABW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,0.0
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,43.5
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,187.0
+Belize,BLZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,55.4400554400554
+Bermuda,BMU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,0.0
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,70.9
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,7.5
+Chile,CHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,17.4
+China,CHN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,50.2
+Colombia,COL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,98.6
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,32.7
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,33.9
+Curacao,CUW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,0.0
+Cayman Islands,CYM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,0.0
+Dominican Republic,DOM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,98.8
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,52.6
+Fiji,FJI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,40.6
+Grenada,GRD,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,0.0
+Guyana,GUY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,92.0
+St. Kitts and Nevis,KNA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,0.0
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,46.6
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,66.54
+Mongolia,MNG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,165.0
+Nicaragua,NIC,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,87.0
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,23.1
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,76.7
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,12.5
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,159.7
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,36.6
+United States,USA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,9.9
+St. Vincent and the Grenadines,VCT,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,0.0
+"Venezuela, RB",VEN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,67.2
+Viet Nam,VNM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2001,130.0
+Aruba,ABW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,0.0
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,46.1
+Belize,BLZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,92.678405931418
+Bermuda,BMU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,0.0
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,75.9
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,4.0
+Chile,CHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,17.1
+China,CHN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,43.2
+Colombia,COL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,84.4
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,38.0
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,41.1
+Curacao,CUW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,165.0
+Cayman Islands,CYM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,0.0
+Dominican Republic,DOM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,135.6
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,42.3
+Fiji,FJI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,35.3
+Grenada,GRD,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,0.0
+Guyana,GUY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,117.0
+India,IND,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,301.0
+"Iran, Islamic Rep.",IRN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,27.4
+Jamaica,JAM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,95.0
+St. Kitts and Nevis,KNA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,0.0
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,53.4
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,54.58
+Mongolia,MNG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,121.5
+Nicaragua,NIC,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,89.4
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,37.5
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,71.3
+Peru,PER,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,118.3
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,11.3
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,182.1
+Turks and Caicos Islands,TCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,0.0
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,34.6
+United States,USA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,8.9
+"Venezuela, RB",VEN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,68.0
+British Virgin Islands,VGB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,0.0
+Virgin Islands (U.S.),VIR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,0.0
+"Yemen, Rep.",YEM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2002,365.0
+Aruba,ABW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,0.0
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,43.6
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,40.0
+Belize,BLZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,40.4476203316705
+Bermuda,BMU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,0.0
+Bolivia,BOL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,229.0
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,73.0
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,6.6
+Chile,CHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,12.2
+China,CHN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,51.3
+Colombia,COL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,77.8
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,32.9
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,39.5
+Curacao,CUW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,155.7
+Cayman Islands,CYM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,0.0
+Dominica,DMA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,0.0
+Dominican Republic,DOM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,128.0
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,39.3
+Eritrea,ERI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,631.0
+Fiji,FJI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,44.7
+Guyana,GUY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,124.0
+"Iran, Islamic Rep.",IRN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,28.3
+St. Kitts and Nevis,KNA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,0.0
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,42.4
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,55.37
+Mongolia,MNG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,107.2
+Nicaragua,NIC,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,72.0
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,23.2
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,68.0
+Peru,PER,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,123.8
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,15.7
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,174.1
+Turks and Caicos Islands,TCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,0.0
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,21.7
+United States,USA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,12.1
+"Venezuela, RB",VEN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,57.8
+British Virgin Islands,VGB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,0.0
+Virgin Islands (U.S.),VIR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2003,0.0
+Aruba,ABW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,83.8
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,40.1
+Antigua and Barbuda,ATG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,0.0
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,39.0
+Belize,BLZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,63.8569604086846
+Bermuda,BMU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,0.0
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,76.1
+Barbados,BRB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,0.0
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,5.9
+Chile,CHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,17.3
+China,CHN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,48.3
+Colombia,COL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,78.7
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,30.5
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,38.5
+Curacao,CUW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,59.5
+Cayman Islands,CYM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,0.0
+Dominica,DMA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,0.0
+Dominican Republic,DOM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,143.7
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,36.8
+"Egypt, Arab Rep.",EGY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,68.0
+Fiji,FJI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,62.1
+Guyana,GUY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,116.0
+"Iran, Islamic Rep.",IRN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,24.1
+St. Kitts and Nevis,KNA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,0.0
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,38.0
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,52.62
+Myanmar,MMR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,315.86
+Mongolia,MNG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,96.7
+Nicaragua,NIC,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,87.3
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,18.5
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,43.0
+Peru,PER,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,120.8
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,27.3
+Portugal,PRT,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,8.2
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,153.5
+Turks and Caicos Islands,TCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,0.0
+Thailand,THA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,44.5
+Trinidad and Tobago,TTO,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,52.2
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,18.0
+United States,USA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,13.1
+St. Vincent and the Grenadines,VCT,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,0.0
+British Virgin Islands,VGB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2004,0.0
+Aruba,ABW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,0.0
+United Arab Emirates,ARE,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,0.0
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,39.2
+Antigua and Barbuda,ATG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,0.0
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,90.0
+Belize,BLZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,134.10218586563
+Bermuda,BMU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,0.0
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,74.7
+Barbados,BRB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,0.0
+Botswana,BWA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,157.7
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,8.2
+Chile,CHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,18.5
+China,CHN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,47.7
+Colombia,COL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,70.14
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,37.7
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,51.4
+Curacao,CUW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,0.0
+Dominica,DMA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,0.0
+Dominican Republic,DOM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,142.3
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,41.0
+Fiji,FJI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,50.5
+Guyana,GUY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,148.0
+India,IND,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,254.0
+"Iran, Islamic Rep.",IRN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,23.8
+St. Kitts and Nevis,KNA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,0.0
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,44.0
+Lesotho,LSO,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,939.0
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,52.91
+Mongolia,MNG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,92.7
+Nicaragua,NIC,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,86.5
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,15.4
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,66.0
+Peru,PER,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,114.1
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,11.8
+Portugal,PRT,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,2.7
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,128.5
+Sudan,SDN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,638.0
+El Salvador,SLV,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,71.2
+South Sudan,SSD,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,2037.0
+Suriname,SUR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,115.5
+Thailand,THA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,37.4
+Trinidad and Tobago,TTO,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,34.7544022242817
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,19.1
+United States,USA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,15.1
+St. Vincent and the Grenadines,VCT,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,0.0
+"Venezuela, RB",VEN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,59.9
+British Virgin Islands,VGB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,0.0
+Virgin Islands (U.S.),VIR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2005,0.0
+Aruba,ABW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,0.0
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,47.8
+Antigua and Barbuda,ATG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,0.0
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,0.0
+Belize,BLZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,69.5991091314031
+Bermuda,BMU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,125.3
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,77.2
+Botswana,BWA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,139.79
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,7.1
+Chile,CHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,19.3
+China,CHN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,41.1
+Colombia,COL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,71.38
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,39.3
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,49.4
+Curacao,CUW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,0.0
+Cayman Islands,CYM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,0.0
+Dominica,DMA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,0.0
+Dominican Republic,DOM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,126.5
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,38.8
+"Egypt, Arab Rep.",EGY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,59.0
+Fiji,FJI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,43.5
+Guyana,GUY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,135.0
+Haiti,HTI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,630.0
+"Iran, Islamic Rep.",IRN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,21.7
+Jamaica,JAM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,92.5504652799652
+St. Kitts and Nevis,KNA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,151.1
+St. Lucia,LCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,47.1
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,39.3
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,49.6
+Mongolia,MNG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,67.2
+Nicaragua,NIC,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,90.4
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,12.1
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,83.6
+Peru,PER,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,114.9
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,8.2
+Portugal,PRT,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,4.7
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,121.4
+Suriname,SUR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,107.4
+Thailand,THA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,41.6
+Trinidad and Tobago,TTO,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,66.334991708126
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,12.7
+United States,USA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,13.3
+St. Vincent and the Grenadines,VCT,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,0.0
+British Virgin Islands,VGB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,0.0
+Virgin Islands (U.S.),VIR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,0.0
+South Africa,ZAF,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2006,702.0
+Aruba,ABW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,0.0
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,43.7
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,68.0
+Belize,BLZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,85.2878464818763
+Bermuda,BMU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,0.0
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,77.0
+Barbados,BRB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,0.0
+Botswana,BWA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,183.47
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,6.5
+Chile,CHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,18.2
+China,CHN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,36.6
+Colombia,COL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,72.06
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,19.1
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,31.1
+Curacao,CUW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,161.1
+Cayman Islands,CYM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,0.0
+Denmark,DNK,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,3.9931728153922
+Dominican Republic,DOM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,116.1
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,50.7
+Fiji,FJI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,31.1
+Grenada,GRD,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,0.0
+Guatemala,GTM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,139.0
+Guyana,GUY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,106.0
+"Iran, Islamic Rep.",IRN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,24.7
+St. Kitts and Nevis,KNA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,0.0
+St. Lucia,LCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,90.7
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,38.4
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,46.45
+Mongolia,MNG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,88.3
+Nicaragua,NIC,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,76.5
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,20.9
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,59.4
+Peru,PER,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,110.5
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,25.7
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,127.3
+El Salvador,SLV,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,56.93
+Suriname,SUR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,184.3
+Trinidad and Tobago,TTO,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,31.764519032241
+Turkiye,TUR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,21.2
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,27.4
+United States,USA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,12.7
+"Venezuela, RB",VEN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,56.8
+British Virgin Islands,VGB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2007,0.0
+Aruba,ABW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,0.0
+United Arab Emirates,ARE,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,1.4
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,39.7
+Antigua and Barbuda,ATG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,0.0
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,55.0
+Belize,BLZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,42.4568355505236
+Bermuda,BMU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,0.0
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,68.1
+Bhutan,BTN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,145.7
+Botswana,BWA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,195.73
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,8.7
+Chile,CHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,16.5
+China,CHN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,34.2
+Colombia,COL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,60.6
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,33.3
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,46.5
+Cayman Islands,CYM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,0.0
+Dominican Republic,DOM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,98.8
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,47.7
+Fiji,FJI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,37.0
+Guyana,GUY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,111.4
+India,IND,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,212.0
+"Iran, Islamic Rep.",IRN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,20.9
+St. Kitts and Nevis,KNA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,141.0
+St. Lucia,LCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,223.7
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,33.4
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,47.19
+Mongolia,MNG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,48.6
+Nepal,NPL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,229.0
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,15.4
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,59.6
+Peru,PER,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,107.9
+Philippines,PHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,221.0
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,10.9
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,117.4
+El Salvador,SLV,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,51.09
+Syrian Arab Republic,SYR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,56.0
+Turks and Caicos Islands,TCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,0.0
+Trinidad and Tobago,TTO,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,55.3097345132743
+Tunisia,TUN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,44.8
+Turkiye,TUR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,19.4
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,14.8
+"Venezuela, RB",VEN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,62.9
+British Virgin Islands,VGB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2008,0.0
+Aruba,ABW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,0.0
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,55.0
+Bangladesh,BGD,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,194.0
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,131.0
+Belize,BLZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,53.9083557951483
+Bermuda,BMU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,0.0
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,72.4
+Botswana,BWA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,189.57
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,7.6
+Chile,CHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,19.7
+China,CHN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,31.9
+Colombia,COL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,67.31
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,26.7
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,46.9
+Cayman Islands,CYM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,0.0
+Dominican Republic,DOM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,113.8
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,60.3
+Fiji,FJI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,26.5
+Grenada,GRD,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,0.0
+Guyana,GUY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,99.3
+"Iran, Islamic Rep.",IRN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,25.4
+Jamaica,JAM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,73.2
+St. Kitts and Nevis,KNA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,0.0
+St. Lucia,LCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,0.0
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,40.2
+Morocco,MAR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,112.0
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,50.9
+Mongolia,MNG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,81.0
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,15.4
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,42.4
+Peru,PER,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,96.1
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,22.3
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,125.3
+Sudan,SDN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,215.6
+El Salvador,SLV,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,64.5
+Suriname,SUR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,123.0
+Syrian Arab Republic,SYR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,52.0
+Trinidad and Tobago,TTO,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,44.5707281742715
+Turkiye,TUR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,18.4
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,33.9
+"Venezuela, RB",VEN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,73.0
+British Virgin Islands,VGB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,0.0
+Viet Nam,VNM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2009,69.0
+Aruba,ABW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,0.0
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,43.8
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,99.0
+Belize,BLZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,96.8188105117566
+Bermuda,BMU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,0.0
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,68.9
+Barbados,BRB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,58.0
+Botswana,BWA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,163.0
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,5.6
+Switzerland,CHE,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,14.8661097169721
+Chile,CHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,17.9
+China,CHN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,30.0
+Cameroon,CMR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,652.0
+Colombia,COL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,71.6
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,22.6
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,43.1
+Cayman Islands,CYM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,0.0
+Dominica,DMA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,214.6
+Dominican Republic,DOM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,103.0
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,59.0
+Fiji,FJI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,22.6
+Grenada,GRD,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,0.0
+Guyana,GUY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,174.3
+Honduras,HND,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,72.8
+"Iran, Islamic Rep.",IRN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,22.1
+Jamaica,JAM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,113.1
+St. Kitts and Nevis,KNA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,152.4
+St. Lucia,LCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,159.4
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,31.1
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,42.09
+Mongolia,MNG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,47.4
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,24.4
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,60.3
+Peru,PER,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,95.9
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,14.2
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,100.8
+El Salvador,SLV,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,83.7
+Turks and Caicos Islands,TCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,0.0
+Trinidad and Tobago,TTO,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,67.3644937299202
+Turkiye,TUR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,16.4
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,14.8
+"Venezuela, RB",VEN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2010,69.3
+Aruba,ABW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,160.9
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,39.8
+Antigua and Barbuda,ATG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,0.0
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,0.0
+Belize,BLZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,0.0
+Bermuda,BMU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,0.0
+Bolivia,BOL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,160.0
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,61.8
+Barbados,BRB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,60.2
+Botswana,BWA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,188.86
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,4.5
+Chile,CHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,16.1
+China,CHN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,26.1
+Colombia,COL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,68.82
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,24.5
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,40.6
+Cayman Islands,CYM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,0.0
+Dominica,DMA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,0.0
+Dominican Republic,DOM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,98.2
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,70.4
+Fiji,FJI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,39.2
+Grenada,GRD,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,0.0
+Guyana,GUY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,134.6
+Honduras,HND,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,79.0
+India,IND,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,178.0
+"Iran, Islamic Rep.",IRN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,21.5
+Jamaica,JAM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,95.8
+St. Kitts and Nevis,KNA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,150.2
+St. Lucia,LCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,49.8
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,32.5
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,42.75
+Mongolia,MNG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,48.7
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,16.2
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,80.5
+Peru,PER,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,92.7
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,12.2
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,88.8
+Suriname,SUR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,82.5
+Turks and Caicos Islands,TCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,0.0
+Trinidad and Tobago,TTO,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,32.3223616872273
+Turkiye,TUR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,15.5
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,8.6
+St. Vincent and the Grenadines,VCT,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,57.3
+"Venezuela, RB",VEN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,73.3
+British Virgin Islands,VGB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2011,0.0
+Aruba,ABW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,0.0
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,34.9
+Antigua and Barbuda,ATG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,0.0
+Burkina Faso,BFA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,330.0
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,62.0
+Belize,BLZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,70.0967334922193
+Bermuda,BMU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,0.0
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,59.3
+Barbados,BRB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,30.6
+Botswana,BWA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,147.9
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,5.0
+Chile,CHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,17.2
+China,CHN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,24.5
+Colombia,COL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,65.9
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,30.0
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,33.4
+Cayman Islands,CYM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,0.0
+Dominica,DMA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,105.0
+Dominican Republic,DOM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,93.8
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,59.9
+Fiji,FJI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,59.5
+Grenada,GRD,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,60.3
+Guatemala,GTM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,116.0
+Guyana,GUY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,122.5
+Honduras,HND,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,74.1
+India,IND,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,167.0
+"Iran, Islamic Rep.",IRN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,19.9
+Iraq,IRQ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,35.0
+Jamaica,JAM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,101.34290314514
+St. Kitts and Nevis,KNA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,314.0
+St. Lucia,LCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,49.2
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,37.7
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,42.07
+Mongolia,MNG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,51.5
+Nicaragua,NIC,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,49.7
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,16.5
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,64.9
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,2.6
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,84.9
+El Salvador,SLV,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,42.0
+Turks and Caicos Islands,TCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,0.0
+Trinidad and Tobago,TTO,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,37.1037845860278
+Turkiye,TUR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,15.4
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,10.4
+St. Vincent and the Grenadines,VCT,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,53.5
+"Venezuela, RB",VEN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,69.8
+British Virgin Islands,VGB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,0.0
+"Yemen, Rep.",YEM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2012,148.0
+Aruba,ABW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,0.0
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,32.5
+Antigua and Barbuda,ATG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,0.0
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,68.0
+Belize,BLZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,13.7969094922737
+Bermuda,BMU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,0.0
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,62.1
+Barbados,BRB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,33.7
+Botswana,BWA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,182.6
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,5.8
+Chile,CHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,15.2
+China,CHN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,23.2
+Colombia,COL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,55.3
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,19.8
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,38.9
+Cayman Islands,CYM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,0.0
+Dominica,DMA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,0.0
+Dominican Republic,DOM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,101.8
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,45.7
+Grenada,GRD,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,54.4
+Guatemala,GTM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,113.0
+Guyana,GUY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,130.4
+Honduras,HND,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,86.0
+"Iran, Islamic Rep.",IRN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,19.7
+Jamaica,JAM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,106.5
+St. Kitts and Nevis,KNA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,0.0
+St. Lucia,LCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,47.6
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,32.5
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,38.08
+Mongolia,MNG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,42.6
+Nicaragua,NIC,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,49.7
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,11.3
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,55.6
+Peru,PER,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,80.6
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,5.5
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,96.3
+El Salvador,SLV,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,38.0
+Suriname,SUR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,129.8
+Sint Maarten (Dutch part),SXM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,195.7
+Turks and Caicos Islands,TCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,0.0
+Trinidad and Tobago,TTO,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,42.2989478136731
+Turkiye,TUR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,15.9
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,18.5
+St. Vincent and the Grenadines,VCT,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,115.1
+"Venezuela, RB",VEN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,68.7
+British Virgin Islands,VGB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2013,0.0
+Aruba,ABW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,0.0
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,37.3
+Antigua and Barbuda,ATG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,0.0
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,64.0
+Belize,BLZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,54.757015742642
+Bermuda,BMU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,0.0
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,63.8
+Barbados,BRB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,0.0
+Botswana,BWA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,151.6
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,5.0
+Chile,CHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,13.5
+China,CHN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,21.7
+Colombia,COL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,53.7
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,29.3
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,35.1
+Cayman Islands,CYM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,0.0
+Dominica,DMA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,0.0
+Dominican Republic,DOM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,100.8
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,49.2
+Grenada,GRD,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,57.1
+Guatemala,GTM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,108.0
+Guyana,GUY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,121.7
+Honduras,HND,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,69.9
+Jamaica,JAM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,113.5
+St. Kitts and Nevis,KNA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,155.5
+"Korea, Rep.",KOR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,11.0234592993214
+St. Lucia,LCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,98.0
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,32.0
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,38.91
+Mongolia,MNG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,30.2
+Nicaragua,NIC,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,37.0
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,19.3
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,58.5
+Peru,PER,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,83.5
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,8.7
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,63.9
+El Salvador,SLV,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,52.6
+Suriname,SUR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,153.7
+Turks and Caicos Islands,TCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,0.0
+Trinidad and Tobago,TTO,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,26.2136940337632
+Turkiye,TUR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,15.2
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,18.6
+St. Vincent and the Grenadines,VCT,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,54.3
+"Venezuela, RB",VEN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,82.4
+British Virgin Islands,VGB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2014,0.0
+Aruba,ABW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,0.0
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,38.7
+Antigua and Barbuda,ATG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,173.0
+Bangladesh,BGD,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,195.862
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,65.8
+Belize,BLZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,107.497984412792
+Bermuda,BMU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,0.0
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,62.0
+Barbados,BRB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,34.8
+Botswana,BWA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,127.0
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,6.0
+Chile,CHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,15.5
+China,CHN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,20.1
+Colombia,COL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,53.7
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,27.8
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,41.6
+Cayman Islands,CYM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,0.0
+Dominica,DMA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,116.0
+Dominican Republic,DOM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,99.3
+Algeria,DZA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,75.9
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,44.6
+Grenada,GRD,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,0.0
+Guatemala,GTM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,108.0
+Guyana,GUY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,106.4
+Honduras,HND,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,60.0
+India,IND,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,130.0
+Jamaica,JAM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,87.1
+St. Kitts and Nevis,KNA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,158.2
+St. Lucia,LCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,96.9
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,33.7
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,35.21
+Malawi,MWI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,439.0
+Nicaragua,NIC,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,42.2
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,18.5
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,52.7
+Peru,PER,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,78.3
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,28.8
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,81.8
+El Salvador,SLV,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,42.3
+Suriname,SUR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,70.3
+Turks and Caicos Islands,TCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,0.0
+Trinidad and Tobago,TTO,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,49.2853622474125
+Turkiye,TUR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,14.6
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,22.5
+St. Vincent and the Grenadines,VCT,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,0.0
+"Venezuela, RB",VEN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,80.24
+British Virgin Islands,VGB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2015,0.0
+Aruba,ABW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,158.9
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,33.7
+Antigua and Barbuda,ATG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,0.0
+Burundi,BDI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,334.0
+Bahrain,BHR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,24.1382639760548
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,22.9
+Belize,BLZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,84.5070422535211
+Bermuda,BMU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,0.0
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,64.4
+Barbados,BRB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,1.15
+Botswana,BWA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,156.6
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,5.5
+Chile,CHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,9.0
+China,CHN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,19.9
+Colombia,COL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,51.3
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,28.6
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,41.9
+Cayman Islands,CYM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,0.0
+Dominica,DMA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,251.3
+Dominican Republic,DOM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,90.0
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,39.7
+Grenada,GRD,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,192.0
+Guatemala,GTM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,113.8
+Guyana,GUY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,77.3
+Honduras,HND,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,77.0
+Haiti,HTI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,529.0
+Jamaica,JAM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,110.6
+St. Kitts and Nevis,KNA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,147.9
+Lebanon,LBN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,20.0
+St. Lucia,LCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,0.0
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,33.8
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,37.77
+Nicaragua,NIC,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,37.3
+Nepal,NPL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,239.0
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,12.5
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,49.2
+Peru,PER,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,63.0
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,17.7
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,86.4
+El Salvador,SLV,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,27.4
+Suriname,SUR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,111.4
+Turks and Caicos Islands,TCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,0.0
+Timor-Leste,TLS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,195.0
+Trinidad and Tobago,TTO,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,33.0724286186749
+Turkiye,TUR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,14.7
+Uganda,UGA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,336.0
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,19.1
+St. Vincent and the Grenadines,VCT,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,57.3
+"Venezuela, RB",VEN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,132.84
+British Virgin Islands,VGB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,0.0
+South Africa,ZAF,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2016,475.0
+Aruba,ABW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,83.2
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,28.7
+Antigua and Barbuda,ATG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,0.0
+Benin,BEN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,391.0
+Bangladesh,BGD,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,172.0
+Bahrain,BHR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,14.5765511879889
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,114.9
+Belize,BLZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,134.37248051599
+Bermuda,BMU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,0.0
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,64.5
+Barbados,BRB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,0.0
+Botswana,BWA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,143.2
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,6.36
+Chile,CHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,17.3
+China,CHN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,19.6
+Colombia,COL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,51.0
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,23.3
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,39.1
+Cayman Islands,CYM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,0.0
+Dominica,DMA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,0.0
+Dominican Republic,DOM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,104.0
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,42.8
+Grenada,GRD,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,72.0
+Guatemala,GTM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,110.0
+Guyana,GUY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,91.0
+Honduras,HND,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,56.0
+Haiti,HTI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,529.0
+Jamaica,JAM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,61.0004066693778
+St. Kitts and Nevis,KNA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,154.3
+Lebanon,LBN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,16.8543383869596
+St. Lucia,LCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,53.6
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,39.0
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,35.56
+Nicaragua,NIC,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,34.4
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,21.0
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,35.4
+Peru,PER,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,68.0
+Papua New Guinea,PNG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,171.0
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,28.7
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,67.3
+Senegal,SEN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,236.0
+El Salvador,SLV,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,31.1
+Suriname,SUR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,109.72130787799
+Sint Maarten (Dutch part),SXM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,0.0
+Turks and Caicos Islands,TCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,0.0
+Trinidad and Tobago,TTO,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,30.5101293629485
+Turkiye,TUR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,14.5
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,18.6
+St. Vincent and the Grenadines,VCT,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,207.9
+"Venezuela, RB",VEN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,122.66
+British Virgin Islands,VGB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,0.0
+South Africa,ZAF,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2017,125.89
+Aruba,ABW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,0.0
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,37.5
+Bangladesh,BGD,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,169.0
+Bahrain,BHR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,20.2634245187437
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,23.3
+Belize,BLZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,115.31069827034
+Bermuda,BMU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,0.0
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,59.1
+Barbados,BRB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,40.5
+Botswana,BWA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,133.7
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,8.54
+Chile,CHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,13.5
+China,CHN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,18.3
+Cameroon,CMR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,406.0
+Colombia,COL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,45.29
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,14.6
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,43.8
+Cayman Islands,CYM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,0.0
+Dominica,DMA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,0.0
+Dominican Republic,DOM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,107.1
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,41.4
+Grenada,GRD,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,131.5
+Guatemala,GTM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,113.0
+Guyana,GUY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,128.6
+Honduras,HND,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,78.0
+Jamaica,JAM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,96.4658423221959
+St. Kitts and Nevis,KNA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,337.8
+Lebanon,LBN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,13.3707714935152
+St. Lucia,LCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,52.6
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,32.0
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,35.22
+Mali,MLI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,325.0
+Nigeria,NGA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,512.0
+Nicaragua,NIC,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,34.5
+Oman,OMN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,15.2
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,45.5
+Peru,PER,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,65.0
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,28.0
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,70.8
+El Salvador,SLV,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,28.6
+Sint Maarten (Dutch part),SXM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,237.0
+Turks and Caicos Islands,TCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,0.0
+Trinidad and Tobago,TTO,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,12.3380629241209
+Turkiye,TUR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,13.6
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,14.9
+United States,USA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,17.4
+St. Vincent and the Grenadines,VCT,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,0.0
+"Venezuela, RB",VEN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,125.44
+South Africa,ZAF,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,117.69
+Zambia,ZMB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2018,252.0
+Aruba,ABW,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,0.0
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,30.1
+Bangladesh,BGD,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,165.0
+Bahrain,BHR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,16.1194992208909
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,118.5
+Belarus,BLR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,1.14152644916783
+Belize,BLZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,137.570504883753
+Bermuda,BMU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,0.0
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,57.9
+Barbados,BRB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,78.1
+Botswana,BWA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,166.3
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,8.04
+Chile,CHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,10.9
+China,CHN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,17.8
+Colombia,COL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,50.73
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,20.2
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,37.4
+Cayman Islands,CYM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,0.0
+Cyprus,CYP,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,89.0
+Dominica,DMA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,0.0
+Dominican Republic,DOM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,90.7
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,37.0
+Gabon,GAB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,399.0
+"Gambia, The",GMB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,289.0
+Grenada,GRD,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,63.6
+Guatemala,GTM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,105.0
+Guyana,GUY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,174.9
+Honduras,HND,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,53.0
+Jamaica,JAM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,117.606563019907
+St. Kitts and Nevis,KNA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,168.4
+Lebanon,LBN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,13.7
+Liberia,LBR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,742.0
+St. Lucia,LCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,52.5
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,29.2
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,35.56
+Nicaragua,NIC,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,31.1
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,40.0
+Peru,PER,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,55.9
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,34.4
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,67.6
+West Bank and Gaza,PSE,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,19.1
+Rwanda,RWA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,249.0
+Sierra Leone,SLE,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,510.0
+Suriname,SUR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,89.1
+Seychelles,SYC,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,62.3052959501558
+Turks and Caicos Islands,TCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,0.0
+Trinidad and Tobago,TTO,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,25.7
+Turkiye,TUR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,13.1
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,13.3
+United States,USA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,20.1
+St. Vincent and the Grenadines,VCT,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,0.0
+South Africa,ZAF,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2019,98.82
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,41.4
+Antigua and Barbuda,ATG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,0.0
+Bangladesh,BGD,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,163.0
+Bahrain,BHR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,11.0852455381887
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,92.7
+Belize,BLZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,57.20823798627
+Bermuda,BMU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,0.0
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,74.7
+Barbados,BRB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,83.7
+Botswana,BWA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,130.5
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,8.04
+Chile,CHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,21.0
+Colombia,COL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,65.78
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,34.39
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,40.0
+Cayman Islands,CYM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,0.0
+Cyprus,CYP,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,108.0
+Dominica,DMA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,0.0
+Dominican Republic,DOM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,112.2
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,57.6
+Grenada,GRD,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,64.97
+Guatemala,GTM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,99.0
+Guyana,GUY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,79.0
+Honduras,HND,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,61.0
+Jamaica,JAM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,117.851565952683
+St. Kitts and Nevis,KNA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,316.5
+Lebanon,LBN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,16.9
+St. Lucia,LCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,54.6
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,30.2
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,55.23
+Mauritania,MRT,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,424.0
+Namibia,NAM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,81.1
+Nicaragua,NIC,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,37.5
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,81.5
+Peru,PER,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,80.9
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,15.8
+Portugal,PRT,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,20.1
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,78.9
+El Salvador,SLV,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,45.1
+Suriname,SUR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,79.82
+Seychelles,SYC,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,0.0
+Turks and Caicos Islands,TCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,0.0
+Trinidad and Tobago,TTO,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,26.7
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,22.3
+United States,USA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,23.8
+St. Vincent and the Grenadines,VCT,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,77.2
+South Africa,ZAF,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2020,126.06
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,74.2
+Antigua and Barbuda,ATG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,0.0
+Burkina Faso,BFA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,198.0
+Bahrain,BHR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,11.4560659869401
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,248.8
+Belize,BLZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,225.39
+Bermuda,BMU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,0.0
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,117.4
+Barbados,BRB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,131.0
+Botswana,BWA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,240.0
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,6.26
+Chile,CHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,19.72
+Cote d'Ivoire,CIV,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,385.0
+Colombia,COL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,83.16
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,40.52
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,176.6
+Cayman Islands,CYM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,117.2
+Dominica,DMA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,0.0
+Dominican Republic,DOM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,139.7
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,43.5
+Grenada,GRD,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,125.7
+Guatemala,GTM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,122.0
+Guyana,GUY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,139.0
+Honduras,HND,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,125.0
+Jamaica,JAM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,108.675964499185
+Cambodia,KHM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,154.0
+St. Kitts and Nevis,KNA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,0.0
+Lebanon,LBN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,46.8
+St. Lucia,LCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,52.1
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,47.04
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,59.19
+Nicaragua,NIC,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,31.1
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,63.2
+Peru,PER,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,87.4
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,36.3
+Portugal,PRT,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,8.8
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,160.0
+El Salvador,SLV,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,62.9
+Suriname,SUR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,288.37
+Seychelles,SYC,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,0.0
+Turks and Caicos Islands,TCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,0.0
+Trinidad and Tobago,TTO,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,61.2
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,52.0
+United States,USA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,32.9
+St. Vincent and the Grenadines,VCT,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,76.7
+British Virgin Islands,VGB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,0.0
+South Africa,ZAF,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2021,148.1
+Argentina,ARG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,34.3
+Antigua and Barbuda,ATG,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,0.0
+Bahrain,BHR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,34.3721356553621
+"Bahamas, The",BHS,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,212.1
+Belize,BLZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,56.64
+Brazil,BRA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,57.7
+Barbados,BRB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,139.3
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,6.26
+Switzerland,CHE,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,1.2
+Chile,CHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,14.2
+Colombia,COL,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,48.46
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,14.97
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,40.9
+Cayman Islands,CYM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,0.0
+Dominica,DMA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,153.4
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,33.9
+Grenada,GRD,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,203.7
+Guatemala,GTM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,91.0
+Guyana,GUY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,160.0
+Honduras,HND,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,48.0
+Jamaica,JAM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,161.0
+St. Kitts and Nevis,KNA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,200.0
+Lebanon,LBN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,18.5
+Sri Lanka,LKA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,33.0
+Mexico,MEX,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,38.21
+Mozambique,MOZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,233.0
+Nicaragua,NIC,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,31.2
+Panama,PAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,59.45
+Puerto Rico (US),PRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,31.4
+Portugal,PRT,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,13.1
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,90.5
+El Salvador,SLV,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,34.5
+Turks and Caicos Islands,TCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,0.0
+Trinidad and Tobago,TTO,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,15.2
+Tanzania,TZA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,104.0
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,3.1
+United States,USA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,22.3
+St. Vincent and the Grenadines,VCT,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,77.3
+British Virgin Islands,VGB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,0.0
+South Africa,ZAF,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2022,109.6
+Bulgaria,BGR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2023,8.74171722293127
+Bahrain,BHR,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2023,0.0
+Belize,BLZ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2023,78.83
+Barbados,BRB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2023,178.3
+Canada,CAN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2023,9.38
+Switzerland,CHE,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2023,2.5
+Costa Rica,CRI,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2023,7.96
+Cuba,CUB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2023,38.7
+Cayman Islands,CYM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2023,0.0
+Dominica,DMA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2023,0.0
+Ecuador,ECU,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2023,35.6210816810151
+Grenada,GRD,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2023,208.2
+Guatemala,GTM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2023,84.0
+Honduras,HND,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2023,65.0
+Iraq,IRQ,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2023,29.6
+Jamaica,JAM,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2023,136.9
+St. Kitts and Nevis,KNA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2023,207.9
+Lesotho,LSO,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2023,530.0
+Paraguay,PRY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2023,84.6
+Senegal,SEN,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2023,153.0
+El Salvador,SLV,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2023,26.8
+Turks and Caicos Islands,TCA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2023,0.0
+Trinidad and Tobago,TTO,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2023,7.8
+Uruguay,URY,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2023,19.1
+British Virgin Islands,VGB,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,2023,415.0
