@@ -56,4 +56,4 @@ After 1994, Rwanda shows the biggest improvement, reflecting effective child hea
 
 I observed that huge contrasts exist globally.
 Top 10 countries have maternal mortality above 400 per 100,000 live births, while the lowest 10 are below 50. 
-It's worth noting that 90% of the countries in top 10 highest mortality rates are from Africa.
+It's worth noting that 80% of the countries in top 10 highest mortality rates are from Africa, indicating weak health systems.
