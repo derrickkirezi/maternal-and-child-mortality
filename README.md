@@ -1,17 +1,59 @@
-#Maternal and Child Mortality Analysis
+# Maternal and Child Mortality Analysis
 
-##Overview
+## Overview
 
-This project analyzes maternal, infant, and under-5 mortality trends across countries using publicly available datasets. The goal is to provide insights into long-term improvements, disparities, and country-level differences in child and maternal health outcomes.
+This project analyzes maternal, infant, and under-5 mortality trends across countries using publicly available datasets. The goal is to compare under-5 children mortality rates between East African states, analyse the top/bottom maternal mortality rates across the world, then provide insights.
 
 The analysis was done using Python, Pandas, and Matplotlib, with cleaned and merged datasets prepared for visualization.
 
-Datasets
+## Datasets
 
 Maternal Mortality – Maternal deaths per 100,000 live births
-
 Infant Mortality – Infant deaths per 1,000 live births
-
 Under-5 Mortality – Deaths of children under 5 per 1,000 live births
 
 All datasets were downloaded from the World Bank/UN public health repositories and cleaned for analysis.
+
+## Tools & Libraries
+
+`Python 3`
+`Pandas (data cleaning and manipulation)`
+`Matplotlib (visualizations)`
+`Jupyter/Colab notebooks`
+
+## Project structure
+
+── `data/`
+   ├── raw
+     ├── maternal_mortality.csv
+     ├── infant_mortality.csv
+     └── under5_mortality.csv
+   ├── cleaned
+     ├── maternal_mortality_clean.csv
+     ├── infant_mortality_clean.csv
+     ├── under5_mortality_clean.csv
+     └── mortality_merged.csv
+── `notebook/`
+    ├── 01_datacleaning/          # Scripts to clean raw datasets
+    ├── 02_merge_datasets.py      # Merge datasets into master table
+    └── 03_visualizations/       # Analysis & plots
+── `figures/  `                    # Generated visualizations
+    ├── under5_trends_east_africa.png
+    ├── top10_under5_improvement.png
+    ├── top10_maternal.png
+    └── bottom10_maternal.png
+── `README.md`
+
+## Insights
+
+    Under-5 Mortality Trends in East Africa
+
+Steady decline is observed in Rwanda, Kenya, Uganda, and Tanzania over the last two decades. 
+In 1994, the rates spiked most likely because of the Genocide against the Tutsi.
+After 1994, Rwanda shows the biggest improvement, reflecting effective child health policies.
+
+    Maternal Mortality 
+
+I observed that huge contrasts exist globally.
+Top 10 countries have maternal mortality above 400 per 100,000 live births, while the lowest 10 are below 50. 
+It's worth noting that 90% of the countries in top 10 highest mortality rates are from Africa.
