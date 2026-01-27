@@ -23,21 +23,21 @@ All datasets were downloaded from the World Bank/UN public health repositories a
 
 ## Project structure
 
-── `data/`
+── `data/`                            # data files
    ├── raw 
      ├── maternal_mortality.csv
      ├── infant_mortality.csv
      └── under5_mortality.csv
-   ├── cleaned
+   ├── cleaned     
      ├── maternal_mortality_clean.csv
      ├── infant_mortality_clean.csv
      ├── under5_mortality_clean.csv
      └── mortality_merged.csv
-── `notebook/`
-    ├── 01_datacleaning/          # Scripts to clean raw datasets
-    ├── 02_merge_datasets.py      # Merge datasets into master table
-    └── 03_visualizations/       # Analysis & plots
-── `figures/  `                    # Generated visualizations
+── `notebook/`                        # Scripts
+    ├── 01_datacleaning/          
+    ├── 02_merge_datasets.py      
+    └── 03_visualizations/
+── `figures/  `                       # generated visualizations
     ├── under5_trends_east_africa.png
     ├── top10_under5_improvement.png
     ├── top10_maternal.png
