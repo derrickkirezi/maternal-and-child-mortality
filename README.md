@@ -44,7 +44,7 @@ All datasets were downloaded from the World Bank/UN public health repositories a
     └── bottom10_maternal.png
 ── `README.md`
 
-## Insights
+## Analysis and insights
 
     Under-5 Mortality Trends in East Africa
 
