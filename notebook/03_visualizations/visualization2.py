@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load master dataset
-df = pd.read_csv("data/mortality_master.csv")
+df = pd.read_csv("data/mortality_merged.csv")
 
 # select relevant columns
 maternal = df[["country","year","value_maternal"]].dropna()
