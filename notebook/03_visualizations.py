@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # load master dataset
-df = pd.read_csv("data/mortality_merge.csv")
+df = pd.read_csv("data/mortality_merged.csv")
 
 # Filter for Rwanda
 rwanda = df[df["country"] == "Rwanda"].sort_values("year")
