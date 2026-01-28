@@ -23,37 +23,21 @@ All datasets were downloaded from the World Bank/UN public health repositories a
 
 ## Project structure
 
-── `data/`                            # data files
-   ├── raw 
-     ├── maternal_mortality.csv
-     ├── infant_mortality.csv
-     └── under5_mortality.csv
-   ├── cleaned     
-     ├── maternal_mortality_clean.csv
-     ├── infant_mortality_clean.csv
-     ├── under5_mortality_clean.csv
-     └── mortality_merged.csv
-── `notebook/`                        # Scripts
-    ├── 01_datacleaning/          
-    ├── 02_merge_datasets.py      
-    └── 03_visualizations/
-── `figures/  `                       # generated visualizations
-    ├── under5_trends_east_africa.png
-    ├── top10_under5_improvement.png
-    ├── top10_maternal.png
-    └── bottom10_maternal.png
-── `README.md`
+- `data/`            # data files
+- `notebook/`        # python scripts
+- `figures/  `       # generated visualizations
+- `README.md`
 
 ## Analysis and insights
 
     Under-5 Mortality Trends in East Africa
 
-Steady decline is observed in Rwanda, Kenya, Uganda, and Tanzania over the last two decades. 
-In 1994, the rates spiked most likely because of the Genocide against the Tutsi.
-After 1994, Rwanda shows the biggest improvement, reflecting effective child health policies.
+-Steady decline is observed in Rwanda, Kenya, Uganda, and Tanzania over the last two decades. 
+-In 1994, the rates spiked most likely because of the Genocide against the Tutsi.
+-After 1994, Rwanda shows the biggest improvement, reflecting effective child health policies.
 
     Maternal Mortality 
 
-I observed that huge contrasts exist globally.
-Top 10 countries have maternal mortality above 400 per 100,000 live births, while the lowest 10 are below 50. 
-It's worth noting that 80% of the countries in top 10 highest mortality rates are from Africa, indicating weak health systems.
+-I observed that huge contrasts exist globally.
+-Top 10 countries have maternal mortality above 400 per 100,000 live births, while the lowest 10 are below 50. 
+-It's worth noting that 80% of the countries in top 10 highest mortality rates are from Africa, indicating weak health systems.
