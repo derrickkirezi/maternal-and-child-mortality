@@ -39,6 +39,7 @@ The analysis was done using Python, Pandas, Matplotlib and Excel, with cleaned a
 -In 1994, the rates spiked due to the Genocide against the Tutsi.
 
 -After 1994, Rwanda shows the biggest improvement, reflecting effective child health policies.
+
 ![East Africa under-5 Mortality](figures/under5_east_africa.png)
 
     Maternal mortality rates
