@@ -37,9 +37,14 @@ All datasets were downloaded from the World Bank/UN public health repositories a
 -After 1994, Rwanda shows the biggest improvement, reflecting effective child health policies.
 ![East Africa under-5 Mortality](figures/under5_east_africa.png)
 
-    Child  Mortality trends in Rwanda (2000-2023) 
+    Maternal mortality rates
 
--Consistent decline in both infant and under-5 child mortality rates in Rwanda.
--In 2000, eported. 
--It's worth noting that 80% of the countries in top 10 highest mortality rates are from Africa, indicating weak health systems.
+-(Found many inconsistent data from the dataset and chose to leave this indicator out of this analysis)
+
+     Child  Mortality trends in Rwanda (2000-2023) 
+
+-Consistent decline is obvious in child mortality rates in Rwanda. This indicates a strong effect of the government's health policies
+-In 2000, reported infant mortality rates were 107.9 per 1000 births. In 2023, the reported rates were 30.5 per 1000 births.
+-In 2000, reported under-5 mortality rates were 184.9 per 1000 births. In 2023, the reported rates were 40 per 1000 births.
+
 ![Rwanda Child Mortality](figures/Rwanda_child_mortality.png)
