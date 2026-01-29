@@ -36,8 +36,9 @@ All datasets were downloaded from the World Bank/UN public health repositories a
 -In 1994, the rates spiked most likely because of the Genocide against the Tutsi.
 -After 1994, Rwanda shows the biggest improvement, reflecting effective child health policies.
 
-    Maternal Mortality 
+    Child  Mortality trends in Rwanda (2000-2023) 
 
--I observed that huge contrasts exist globally.
--Top 10 countries have maternal mortality above 400 per 100,000 live births, while the lowest 10 are below 50. 
+-Consistent decline in both infant and under-5 child mortality rates in Rwanda.
+-In 2000, eported. 
 -It's worth noting that 80% of the countries in top 10 highest mortality rates are from Africa, indicating weak health systems.
+figures/Rwanda Child mortality .png
