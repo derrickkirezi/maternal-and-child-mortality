@@ -9,7 +9,9 @@ The analysis was done using Python, Pandas, Matplotlib and Excel, with cleaned a
 ## Datasets
 
 Maternal Mortality – Maternal deaths per 100,000 live births
+
 Infant Mortality – Infant deaths per 1,000 live births
+
 Under-5 Mortality – Deaths of children under 5 per 1,000 live births
 
 All datasets were downloaded from the World Bank/UN public health repositories and cleaned for analysis.
