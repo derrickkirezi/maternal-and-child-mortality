@@ -41,4 +41,4 @@ All datasets were downloaded from the World Bank/UN public health repositories a
 -Consistent decline in both infant and under-5 child mortality rates in Rwanda.
 -In 2000, eported. 
 -It's worth noting that 80% of the countries in top 10 highest mortality rates are from Africa, indicating weak health systems.
-figures/Rwanda Child mortality .png
+![Rwanda Child Mortality](figures/Rwanda Child mortality .png)
