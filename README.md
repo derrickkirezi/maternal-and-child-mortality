@@ -2,9 +2,9 @@
 
 ## Overview
 
-This project analyzes maternal, infant, and under-5 mortality trends across countries using publicly available datasets. The goal is to compare under-5 children mortality rates between East African states, analyse the top/bottom maternal mortality rates across the world, then provide insights.
+This project analyzes maternal, infant, and under-5 mortality trends across countries using publicly available datasets. The goal is to compare under-5 children mortality rates between East African states, to check whether there is a connection between maternal mortality rates and infant mortality rates across the world, and to analyse child mortality trends in Rwanda from 2000.
 
-The analysis was done using Python, Pandas, and Matplotlib, with cleaned and merged datasets prepared for visualization.
+The analysis was done using Python, Pandas, Matplotlib and Excel, with cleaned and merged datasets prepared for visualization.
 
 ## Datasets
 
