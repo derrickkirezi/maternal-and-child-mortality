@@ -35,6 +35,7 @@ All datasets were downloaded from the World Bank/UN public health repositories a
 -Steady decline is observed in Rwanda, Kenya, Uganda, and Tanzania over the last two decades. 
 -In 1994, the rates spiked most likely because of the Genocide against the Tutsi.
 -After 1994, Rwanda shows the biggest improvement, reflecting effective child health policies.
+![East Africa under-5 Mortality](figures/under5_east_africa.png)
 
     Child  Mortality trends in Rwanda (2000-2023) 
 
